@@ -1,0 +1,63 @@
+/* Zain's CSS file */
+
+body {
+
+font-family: arial;
+
+font-size: 12px;
+
+line-height: 1.5;
+
+margin: 0;
+
+padding: 0;
+
+backgrounds: DarkGreen;
+
+<link rel=stylesheet" href="global.css" media="screen">
+
+
+<body class ="home>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
